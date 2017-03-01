@@ -1,0 +1,41 @@
+Assumindo:
+
+- Chave numerica de 5 algarismos;
+- Server responde timestamp();
+- Nao estamos a ter em conta ruído;
+- Tudo na mesma maquina;
+
+
+104
+52
+240
+53
+52
+
+certo
+
+
+
+____
+
+16
+16
+15
+16
+15
+15
+16
+
+mal primeiro
+
+
+_____
+
+129
+29
+31
+30
+30
+31
+
+bem os dois primeiros 
